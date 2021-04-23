@@ -1,2 +1,3 @@
 # hello-world
 Introduction to GitHub (hello world tutorial)
+Hi I am Jaimin Patel, first-year university student, who is just starting to learn GitHub. Although I should have learned it earlier, it is never too late. I want to pursue a career in computer science, possibly in software development or software analysis. I like to code, but I do it in my way and give it my flavour. If I cannot do something, I am willing learn how to do it, because just like everyone else, I was not born with the knowledge of everything, I have to aquire it. I hope that this will be a leading traits towards my success (but again...eveyone has a different definition of "success", I hope I achieve mine).
